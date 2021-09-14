@@ -1,2 +1,2 @@
 language = "c"
-run = "clang-7 -pthread -lm -o main p8_for.c \n ./main"
+run = "clang-7 -pthread -lm -o main p10_whileContinue.c \n ./main"
