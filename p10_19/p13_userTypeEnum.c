@@ -26,6 +26,8 @@ enum Week
 
 int main()
 {
+  printf("%d\n",ValueA);
+
   enum Week week1 = WEEK_SUNDAY ; 
   printf("%d\n",week1);
   enum Week week2 = WEEK_FRIDAY;

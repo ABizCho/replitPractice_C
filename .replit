@@ -1,2 +1,2 @@
 language = "c"
-run = "clang-7 -pthread -lm -o main p13_userTypeEnum.c \n ./main"
+run = "clang-7 -pthread -lm -o main p14_userTypeStruct.c \n ./main"
